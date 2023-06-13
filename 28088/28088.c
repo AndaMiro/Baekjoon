@@ -42,7 +42,7 @@ int main(void) {
 	for (int j = 0; j < K; j++) eung_ae(students, N);
 
 	int cnt = 0;
-	for (int k = 0; k < N; k++) if (students[k].ready_eung_ae) cnt++;
+	for (int p = 0; p < N; p++) if (students[p].ready_eung_ae) cnt++;
 	printf("%d", cnt);
 	
 	free(students);
