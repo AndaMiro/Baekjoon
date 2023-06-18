@@ -1,4 +1,4 @@
 # Baekjoon
 Baekjoon 문제풀이
 
-Silver등급 이상의 문제만 업로드
+그냥 재밌었던 문제들
